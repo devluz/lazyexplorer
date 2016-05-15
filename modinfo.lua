@@ -1,5 +1,5 @@
-name = "Shitty Explorer"
-description = "This mod allows you to discover the whole map (including caves) by automatically moving your character accross the map. Open the map and then use console command 'shittyexplorer()'. Ideally use c_godmode() before to avoid dying while exploring the map."
+name = "Lazy Explorer"
+description = "This mod allows you to discover the whole map (including caves) by automatically moving your character accross the map. Open the map and then use console command 'lazyexplorer()'. Ideally use c_godmode() before to avoid dying while exploring the map."
 author = "devluz"
 version = "0.1"
 

@@ -3,7 +3,9 @@ GLOBAL.require( 'debugkeys' )
 
 
 
-
+GLOBAL.lazyexplorer = function()
+    GLOBAL.shittyexplorer()
+end
 
 GLOBAL.shittyexplorer = function()
     print("shittyexplorer called")
